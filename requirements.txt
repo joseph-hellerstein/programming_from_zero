@@ -1,0 +1,8 @@
+numpy
+brotli
+jupyterlab
+matplotlib
+nose2
+pandas
+pip
+pylint
