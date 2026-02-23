@@ -1,9 +1,11 @@
 numpy
 brotli
+folium
 jupyterlab
 matplotlib
+markdown
 nose2
 pandas
 pip
 pylint
-rise
+us
